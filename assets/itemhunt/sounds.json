@@ -1,0 +1,14 @@
+{
+  "gym_phonk": {
+    "category": "master",
+    "sounds": [ { "name": "itemhunt:gym_phonk", "stream": true } ]
+  },
+  "brazilian_phonk": {
+    "category": "master",
+    "sounds": [ { "name": "itemhunt:brazilian_phonk", "stream": true } ]
+  },
+  "phonk_music": {
+    "category": "master",
+    "sounds": [ { "name": "itemhunt:phonk_music", "stream": true } ]
+  }
+}
