@@ -1,14 +1,12 @@
 {
-  "gym_phonk": {
-    "category": "master",
-    "sounds": [ { "name": "itemhunt:gym_phonk", "stream": true } ]
-  },
-  "brazilian_phonk": {
-    "category": "master",
-    "sounds": [ { "name": "itemhunt:brazilian_phonk", "stream": true } ]
-  },
-  "phonk_music": {
-    "category": "master",
-    "sounds": [ { "name": "itemhunt:phonk_music", "stream": true } ]
-  }
+  "gym_phonk":       { "category": "master", "sounds": [ { "name": "itemhunt:gym_phonk", "stream": true } ] },
+  "brazilian_phonk": { "category": "master", "sounds": [ { "name": "itemhunt:brazilian_phonk", "stream": true } ] },
+  "phonk_music":     { "category": "master", "sounds": [ { "name": "itemhunt:phonk_music", "stream": true } ] },
+  "aura":            { "category": "master", "sounds": [ { "name": "itemhunt:aura", "stream": true } ] },
+  "aura2":           { "category": "master", "sounds": [ { "name": "itemhunt:aura2", "stream": true } ] },
+  "brazil_heat":     { "category": "master", "sounds": [ { "name": "itemhunt:brazil_heat", "stream": true } ] },
+  "night_drive":     { "category": "master", "sounds": [ { "name": "itemhunt:night_drive", "stream": true } ] },
+  "drift":           { "category": "master", "sounds": [ { "name": "itemhunt:drift", "stream": true } ] },
+  "phonk_edit":      { "category": "master", "sounds": [ { "name": "itemhunt:phonk_edit", "stream": true } ] },
+  "slowed":          { "category": "master", "sounds": [ { "name": "itemhunt:slowed", "stream": true } ] }
 }
